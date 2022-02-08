@@ -1,2 +1,2 @@
 # Movie-Recommendation-System
-Movies recommender system using Machin Learning in webfrom
+A content based movie recommender system using cosine similarity
